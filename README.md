@@ -6,4 +6,4 @@
 - 💬 Ask me about php.
 - ⚡ Fun fact: My humours are lame......
 <hr>
-<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="auto" height="50">
+<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="auto" height="30">
