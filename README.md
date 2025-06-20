@@ -29,7 +29,7 @@
 ---
 
 <!-- Anout me -->
-<p style="padding-top: 12px;"><u>ABOUT ME</u></p>
+<p style="padding-top: 12px; text-decoration: underline;">ABOUT ME</p>
 
 ```json
 {
@@ -50,7 +50,7 @@
 }
 ```
 
-<p style="padding-top: 12px;"><u>CONNECT WITH ME: </u></p>
+<p style="padding-top: 12px; text-decoration: underline;">CONNECT WITH ME</p>
 <p>
     <a href="https://github.com/bibekth/">
   <img src="https://pngimg.com/d/github_PNG65.png" alt="Github Account" style="background-color: white;"height="50"/></a> &nbsp;
