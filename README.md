@@ -54,8 +54,8 @@
 <p>
     <a href="https://github.com/bibekth/">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/016/833/880/small/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" alt="Github Account" style="background-color: white; padding: 0 16px;"height="50"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/bibekthapamagar2000/">
+    <a href="https://www.linkedin.com/in/bibekthapamagar2000/" style="background-color: white;">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn Account" style="background-color: white;padding: 0 16px;" height="50"/></a> &nbsp;
-    <a href="mailto:bibek.thapa0521@gmail.com">
+    <a href="mailto:bibek.thapa0521@gmail.com" style="background-color: white;">
   <img src="https://png.pngtree.com/png-clipart/20230916/original/pngtree-google-email-logo-vector-png-image_12256705.png" alt="LinkedIn Account" style="background-color: white;padding: 0 16px;" height="50"/></a> &nbsp;
 </p>
