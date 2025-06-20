@@ -53,7 +53,7 @@
 <p style="padding-top: 12px; text-decoration: underline;">CONNECT WITH ME</p>
 <p>
     <a href="https://github.com/bibekth/">
-  <img src="https://pngimg.com/d/github_PNG65.png" alt="Github Account" style="background-color: white;"height="50"/></a> &nbsp;
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/016/833/880/small/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" alt="Github Account" style="background-color: white; padding: 0 16px;"height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/bibekthapamagar2000/">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn Account" style="background-color: white;padding: 0 16px;" height="50"/></a> &nbsp;
     <a href="mailto:bibek.thapa0521@gmail.com">
